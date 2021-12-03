@@ -11,4 +11,4 @@ docker run -d -p 3306:3306 m08y/mariadb-icinga2-ido-docker:latest
 
 ## Gotchas
 
-- Upadted daily, any bugs are likely from upstream changes to the mariadb image
+- Updated daily, any bugs are likely from upstream changes to the mariadb image
